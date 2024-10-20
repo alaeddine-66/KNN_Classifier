@@ -6,6 +6,8 @@ This project is a Drawing App built using Python's tkinter library, allowing use
 The app performs classification of drawn sketches based on their shape features,
 displaying the nearest predicted label from a predefined set of categories. 
 It also includes a dynamic graph visualization to help illustrate the classification process.
+The idea for this project originates from Radu Mariescu-Istodor,
+a YouTuber who implemented a similar application using JavaScript. This Python adaptation follows his approach
 
 Features
 Drawing Interface: Users can draw freehand on a canvas using the mouse.
