@@ -1,5 +1,7 @@
-Drawing App README
+Drawing App
+
 Overview
+
 This project is a Drawing App built using Python's tkinter library, allowing users to draw and interact with a graphical canvas.
 The app performs classification of drawn sketches based on their shape features,
 displaying the nearest predicted label from a predefined set of categories. 
