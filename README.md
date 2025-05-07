@@ -16,3 +16,4 @@ and predicts the nearest label from a predefined list of objects (e.g., car, fis
 Accuracy Display: Shows the accuracy of the classifier in the side panel.
 Graph Visualization: The app includes a graph that dynamically updates to show how new drawings relate to stored samples in terms of classification.
 Undo Functionality: Users can undo their most recent drawing action.
+![Capture d’écran 2025-05-07 à 22 08 43](https://github.com/user-attachments/assets/24404f62-1103-4b55-a57c-c5a06969b661)
